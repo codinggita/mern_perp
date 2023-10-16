@@ -23,7 +23,10 @@
 To get png icons/Animated or Interface Icons
 Download Free Icons and Stickers for your projects. (MP4, gif, png)
 
-- Icons: https://www.flaticon.com/
+- Icons:
+  
+  -  https://www.flaticon.com/
+  -  https://fontawesome.com/search
 
 - To Remove Background From an Image: https://www.remove.bg/
 
