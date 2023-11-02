@@ -18,6 +18,18 @@
   - https://realtimecolors.com/
   - Youtube Tutorial: https://www.youtube.com/watch?v=HAlIWRcldoc
 
+## Backgrounds and CSS Gradients
+
+Using SVG in background images is a smart choice for web designers and developers looking for high-quality, responsive, and efficient solutions. SVGs provide a wide range of benefits, from scalability and small file sizes to accessibility and interactivity, making them a versatile choice for a variety of web design applications.
+
+- SVG Background generator
+
+  - https://www.svgbackgrounds.com/
+
+- CSS Gradient
+
+  - https://cssgradient.io/
+
 ## Images
 
 To get png icons/Animated or Interface Icons
