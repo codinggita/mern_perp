@@ -1,4 +1,4 @@
-# JavaScript Assignments for Peactice
+# JavaScript Assignments for Practice
 
 - [JS Variables](https://stackblitz.com/edit/web-platform-hpeade?file=script.js,index.html,styles.css)
 - [JS Datatypes](https://stackblitz.com/edit/web-platform-dk53ih?file=index.html,script.js,styles.css)
